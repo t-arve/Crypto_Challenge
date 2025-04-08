@@ -1,3 +1,14 @@
+By··························································
+:________________ ______________   ___________________  ___:
+:\__    ___/  _  \\______   \   \ /   /\_   _____/\   \/  /:
+:  |    | /  /_\  \|       _/\   Y   /  |    __)_  \     / :
+:  |    |/    |    \    |   \ \     /   |        \ /     \ :
+:  |____|\____|__  /____|_  /  \___/   /_______  //___/\  \:
+:                \/       \/                   \/       \_/:
+····························································
+
+For educational purposes only, the creator isn't responsible for the miss-use of this folder
+
 Folder description
 
 - challenge 				 (folder with documents for the CTF that the concursants can see)
